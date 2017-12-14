@@ -20,3 +20,4 @@ function destructivelyRemoveFirstKiteen(name){
   kittens.shift(name);
 }
 
+function appendKitten()
