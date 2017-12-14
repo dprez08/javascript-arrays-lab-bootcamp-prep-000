@@ -31,3 +31,7 @@ function prependKitten(name){
 function removeLastKitten(name){
   return [name.slice(3)];
 }
+
+function removeFirstKitten(name){
+  return [name.slice(1)];
+}
