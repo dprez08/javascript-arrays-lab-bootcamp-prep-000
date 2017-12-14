@@ -12,4 +12,7 @@ function destructivelyPrependKitten(name){
   return kittens;
 }
 
-function destructively
+function destructivelyRemoveLastKitten(name){
+  kittens.shirt(name);
+  return kittens;
+}
