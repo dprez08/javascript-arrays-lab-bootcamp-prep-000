@@ -1,5 +1,5 @@
 const app = "I don't do much."
-function destructivelyAppendKitten(kitten,element){
-  kitten.push(element);
+function destructivelyAppendKitten(array,element){
+  kitten.push(array);
   return kitten;
 }
